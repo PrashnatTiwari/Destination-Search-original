@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.list-item {
+  height: 300px;
+  width: 500px;
+  border-radius: 5px;
+  list-style-type: none;
+  margin: 40px;
+}
+
+.image {
+  height: 300px;
+  width: 500px;
+}
